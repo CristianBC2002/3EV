@@ -1,0 +1,31 @@
+{
+    "numero-pedido": "2333443",
+    "fecha": "2024-04-02",
+    "hora": "14:00:00",
+    "usuario":{
+        "nombre-usuario": "cb205090",
+        "nombre-completo": "Cristian Ballester Carrión",
+        "direccion-envio":{
+            "calle": "Norte,22",
+            "poblacion":"Villarrobledo",
+            "cp":"13789"
+        }
+    },
+
+    "lista-articulos": [{
+        "codigo":"A34A",
+        "descripcion": "Barra de pan",
+        "precio": "0.75"
+
+    },{
+        "codigo":"A34B",
+        "descripcion": "Aceite",
+        "precio": "10"
+    },
+    
+    {
+            "codigo":"A34C",
+            "descripcion": "Bolsa de tomates",
+            "precio": "2.5"
+    }]
+}
